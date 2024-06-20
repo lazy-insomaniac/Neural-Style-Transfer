@@ -22,8 +22,6 @@ This study primarily focuses on implementing a version of research paper A Neura
 -	Obtain images with balance between style and content for any images given.
 
 # Download Links: 🔗
-https://drive.google.com/file/d/1Ov7xwG9VEw6F1JLK3MOKL8BC4GuCNCWu/view?usp=drive_link 
-
 * Neural Style Transfer dataset📊 : https://www.kaggle.com/datasets/burhanuddinlatsaheb/neural-styletransfer/data
 * Dataset Description:
 - A small dataset named Neural Style Transfer on Kaggle was used. It contains 14 
@@ -41,6 +39,7 @@ images in total
     -  NumPy: 1.16.4 or higher
     - VGG 19
     - PIL
+    - Internet connection(for downloading VGG19)
 
 # Setup ⚙️
   - pip install tensorflow
@@ -48,8 +47,7 @@ images in total
 
 
 # Documentation 📑
- - HLD: Project_Report: [https://drive.google.com/file/d/1Ov7xwG9VEw6F1JLK3MOKL8BC4GuCNCWu/view?usp=drive_link](https://drive.google.com/file/d/1Bg57Z38PaLd2TcANpoFvaHQpaugCrC6P/view?usp=drive_link)
-
+ - HLD: Project_Report: https://drive.google.com/file/d/1FPrw5PI6KtMOE6FMYCtYu-RmnA8OrDZ1/view?usp=drive_link
 # References ⚓
  - A Neural Algorithm of Artistic Style : https://arxiv.org/pdf/1508.06576
  - Neural Transfer using Pytorch : https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
